@@ -4,6 +4,9 @@
 
 ### Enlaces relevantes
 * [Repositorio principal](https://github.com/2024-10-VR-Thesis/Nurturing-XR)
+* [Tableros de tareas](https://github.com/orgs/2024-10-VR-Thesis/projects)
+* [Documento de propuesta]()
+* [Documento de diseño del juego]()
 
 ### El equipo 
 * Jose Daniel Fuentes Triviño [@josefuentes9](https://github.com/josefuentes9)
