@@ -3,7 +3,7 @@
 # Esta es la organización para el proyecto de grado en VR y MR
 
 ### Enlaces relevantes
-
+* [Repositorio principal](https://github.com/2024-10-VR-Thesis/Nurturing-XR)
 
 ### El equipo 
 * Jose Daniel Fuentes Triviño [@josefuentes9](https://github.com/josefuentes9)
