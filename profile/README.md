@@ -1,6 +1,6 @@
 <img src="https://github.com/2024-10-VR-Thesis/.github/assets/69609680/fb821629-10d5-4c7a-b53e-d6811cc5fbe2" alt="banner" width = 100%>
 
-# Esta es la organización para el proyecto de grado en VR y MR
+# Esta es la organización para el proyecto de grado en RV y RM
 
 ### Enlaces relevantes
 * [Repositorio principal](https://github.com/2024-10-VR-Thesis/Nurturing-XR)
