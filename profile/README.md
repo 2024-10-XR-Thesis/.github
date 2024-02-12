@@ -3,7 +3,7 @@
 # 2024-10 VR Thesis
 Esta es la organización para el proyecto de grado en realidad virtual y realidad mixta para las plataformas HoloLens, Meta Quest Pro, Meta Quest 3, y VIVE Pro Eye.
 
-### Enlaces relevantes
+### Enlaces de interés
 * [Repositorio principal](https://github.com/2024-10-VR-Thesis/Nurturing-XR)
 * [Tableros de tareas](https://github.com/orgs/2024-10-VR-Thesis/projects)
 * [Documento de propuesta]()
