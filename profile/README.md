@@ -1,13 +1,14 @@
 <img src="https://marketplace.canva.com/EAENvp21inc/1/0/1600w/canva-simple-work-linkedin-banner-qt_TMRJF4m0.jpg" alt="banner" width = 100%>
 
 # 2024-10 VR Thesis
-Esta es la organización para el proyecto de grado en realidad virtual y realidad mixta para las plataformas HoloLens, Meta Quest Pro, Meta Quest 3, y VIVE Pro Eye.
+Esta es la organización para el proyecto de grado en realidad extendida para las plataformas HoloLens, Meta Quest Pro, Meta Quest 3, y VIVE Pro Eye.
 
 ### Enlaces de interés
-* [Repositorio principal](https://github.com/2024-10-VR-Thesis/Nurturing-XR)
+* [Repositorio ambiente controlado](https://github.com/2024-10-VR-Thesis/Nurturing-XR)
+* [Repositorio ambiente no controlado]()
 * [Tableros de tareas](https://github.com/orgs/2024-10-VR-Thesis/projects)
-* [Documento de propuesta]()
-* [Documento de diseño del juego]()
+* [Documento de propuesta](https://uniandes-my.sharepoint.com/:w:/g/personal/l_restrepop_uniandes_edu_co/EZePpaCRYhFDga_34Tj6VTUBcYio9lWlF8j_-dwb9UsXoQ?e=GWZNFh)
+* [Documento de diseño del juego](https://uniandes-my.sharepoint.com/:w:/g/personal/l_restrepop_uniandes_edu_co/ES3akSQr3u5Eofze25uscYABxUH1d3irHj487xTF2-vXIQ?e=l6hPL0)
 
 ### El equipo 
 * Jose Daniel Fuentes Triviño [@josefuentes9](https://github.com/josefuentes9)
