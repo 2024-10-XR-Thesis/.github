@@ -6,7 +6,7 @@ Esta es la organización para el proyecto de grado en realidad virtual y mixta p
 ### Enlaces de interés
 * [Repositorio ambiente controlado](https://github.com/2024-10-VR-Thesis/Nurturing-XR)
 * [Repositorio ambiente no controlado]()
-* [Tablero de tareas](https://tesis-vr- development.atlassian.net/jira/software/projects/TV/boards/1)
+* [Tablero de tareas](https://tesis-vr-development.atlassian.net/jira/software/projects/TV/boards/1)
 * [Documento de propuesta](https://uniandes-my.sharepoint.com/:w:/g/personal/l_restrepop_uniandes_edu_co/EZePpaCRYhFDga_34Tj6VTUBcYio9lWlF8j_-dwb9UsXoQ?e=GWZNFh)
 * [Documento de diseño del juego](https://uniandes-my.sharepoint.com/:w:/g/personal/l_restrepop_uniandes_edu_co/ES3akSQr3u5Eofze25uscYABxUH1d3irHj487xTF2-vXIQ?e=l6hPL0)
 
