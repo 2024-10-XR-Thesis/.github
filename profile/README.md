@@ -4,8 +4,8 @@
 Esta es la organización para el proyecto de grado en realidad virtual y mixta para las plataformas HoloLens, Meta Quest Pro, Meta Quest 3, y VIVE Pro Eye.
 
 ### Enlaces de interés
-* [Repositorio ambiente controlado](https://github.com/2024-10-VR-Thesis/Nurturing-XR)
-* [Repositorio ambiente no controlado](https://github.com/2024-10-VR-Thesis/Nurturing-XR-Non-Controlled)
+* [Repositorio ambiente controlado](https://github.com/2024-10-XR-Thesis/Nurturing-XR-Controlled)
+* [Repositorio ambiente no controlado](https://github.com/2024-10-XR-Thesis/Nurturing-XR-Non-Controlled)
 * [Tablero de tareas](https://tesis-vr-development.atlassian.net/jira/software/projects/TV/boards/1)
 * [Documento de propuesta](https://uniandes-my.sharepoint.com/:w:/g/personal/l_restrepop_uniandes_edu_co/EZePpaCRYhFDga_34Tj6VTUBcYio9lWlF8j_-dwb9UsXoQ?e=GWZNFh)
 
