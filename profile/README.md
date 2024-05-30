@@ -8,7 +8,7 @@ Esta es la organización para el proyecto de grado en realidad virtual y mixta p
 * [Repositorio ambiente no controlado](https://github.com/2024-10-XR-Thesis/Nurturing-XR-Non-Controlled)
 * [Repositorio API detección de objetos](https://github.com/2024-10-XR-Thesis/Object-Detection-API)
 * [Tablero de tareas](https://tesis-vr-development.atlassian.net/jira/software/projects/TV/boards/1)
-* [Documento de propuesta](https://uniandes-my.sharepoint.com/:w:/g/personal/l_restrepop_uniandes_edu_co/EZePpaCRYhFDga_34Tj6VTUBcYio9lWlF8j_-dwb9UsXoQ?e=GWZNFh)
+* [Documentación](https://github.com/2024-10-XR-Thesis/.github/wiki)
 
 ### El equipo 
 * Jose Daniel Fuentes Triviño [@josefuentes9](https://github.com/josefuentes9)
