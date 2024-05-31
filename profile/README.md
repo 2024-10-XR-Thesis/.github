@@ -6,7 +6,7 @@ Esta es la organización para el proyecto de grado en realidad virtual y mixta p
 ### Enlaces de interés
 * [Repositorio ambiente controlado](https://github.com/2024-10-XR-Thesis/Nurturing-XR-Controlled)
 * [Repositorio ambiente no controlado](https://github.com/2024-10-XR-Thesis/Nurturing-XR-Non-Controlled)
-* [Repositorio API detección de objetos](https://github.com/2024-10-XR-Thesis/Object-Detection-API)
+* [Repositorio API de detección de objetos](https://github.com/2024-10-XR-Thesis/Object-Detection-API)
 * [Tablero de tareas](https://tesis-vr-development.atlassian.net/jira/software/projects/TV/boards/1)
 * [Documentación](https://github.com/2024-10-XR-Thesis/.github/wiki)
 
