@@ -1,4 +1,7 @@
-<img src="https://marketplace.canva.com/EAENvp21inc/1/0/1600w/canva-simple-work-linkedin-banner-qt_TMRJF4m0.jpg" alt="banner" width = 100%>
+<img src="https://github.com/2024-10-XR-Thesis/.github/assets/69609680/4ad0dcd3-c7bd-4db6-9ac9-a339416e4f32" alt="banner" width = 100%>
+
+
+
 
 # 2024-10 XR Thesis
 Esta es la organización para el proyecto de grado en realidad virtual y mixta para las plataformas HoloLens 2, Meta Quest 3, Meta Quest Pro, y VIVE Pro Eye.
