@@ -1,6 +1,6 @@
 <img src="https://github.com/2024-10-XR-Thesis/.github/assets/69609680/b37b810e-f239-4002-9b9b-1ea157c8c897" alt="banner" width = 100%>
 
-# 2024-10 XR Thesis - Answering Anya
+# 2024-10 XR Thesis
 Esta es la organización del proyecto de grado en realidad virtual y mixta _Answering Anya_ para las plataformas HoloLens 2, Meta Quest 3, Meta Quest Pro, y VIVE Pro Eye.
 
 ### Enlaces de interés
